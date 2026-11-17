@@ -1,11 +1,12 @@
+
 function App() {
   return (
     <div>
-      <h1>Hello, World!</h1>
+      <h1>Welcome to React Development!</h1>
       <p>Welcome to my React application.</p>
-      <button>click me</button>
+      <button>Click me</button>
     </div>
   );
 }
+
 export default App;
-     
